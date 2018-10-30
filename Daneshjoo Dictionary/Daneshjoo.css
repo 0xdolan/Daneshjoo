@@ -1,0 +1,30 @@
+body{
+font-family: Verdana, Tahoma, Arial;
+line-height: 25px;
+}
+
+.enentry{
+	font-family: "Century Gothic", Verdana, Arial;
+	color: #E3412F;
+	font-size: 20px;
+	font-weight: bold;
+	}
+.fadef{
+	font-family: "Segoe UI", Verdana, Tahoma, Arial;
+	color: #242120;
+	font-size: 17px;
+	direction: rtl;
+	text-align: right;
+}
+.faentry{
+	font-family: "Segoe UI", Verdana, Tahoma, Arial;
+	color: #242120;
+	font-size: 19px;
+	direction: rtl;
+	text-align: right;
+}
+.endef{
+		font-family: Verdana, Tahoma, Arial;
+	color: #003B67;
+	font-size: 17px;
+}
